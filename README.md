@@ -1,2 +1,2 @@
 # myURL
-johnmundahl.com
+[johnmundahl.com](http://johnmundahl.com/)
