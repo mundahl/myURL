@@ -37,7 +37,7 @@ app,rt = fast_app()
 
 @app.get("/")
 def homepage():
-    return Title(home_title), Main(nav, Hr(), Div(cls="container")(H1("Coming soon!"))), footer
+    return Title(home_title), Main(nav, Hr(), Div(cls="container")(H1("Coming soon!"), H6("(Hi Natasha 🤗)"))), footer
 
 @app.get("/jottings")
 def jottings_page():
