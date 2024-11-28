@@ -69,7 +69,7 @@ def manlaw24_page():
                                     P("When in doubt, I'll force y'all to read the broken source code. I mean, I signed up for *writing* the recap, not making it accessible 😊"),
                                     P(""),
                                     P("Speaking of broken and long term thinking, I'm using this recap preface to wonder: How long until we're all trading away or for future draft picks to maximize championship odds?"),
-                                    P("Like if you really want to win a championship, why don't you use 2025 to trade away your best players for tons of premium 2026 draft picks. Then before the 2026 trade deadline, trade out your best 2027 picks for the best players on non-playoff teams? Boom easy >50% championship in just three years of draft picks. Repeat in 2028-2030."),
+                                    P("Like if you really want to win a championship, why don't you use 2025 to trade away your best players for tons of premium 2026 draft picks. Then before the 2026 trade deadline, cash in your best 2027 picks for the best players on non-playoff teams? Boom easy >50% championship in just three years of draft picks. Repeat in 2028-2030."),
                                     P(""),
                                     P("And if you don't use this future draft pick trading to condense 3 years or draft capital into 1 superteam, won't you be stuck in Viking purgatory: always solid, but never realistically going to win the championship?"),
                                     P(""),
@@ -81,16 +81,16 @@ def manlaw24_page():
                                     
 
                                     H2("Kristian 7W beats Ruble 3W 149.12 to 75.8"),
-                                    P(""),
-                                    P(""),
+                                    P("Ranking 5th on the SNICKERS power ranks, Kristian seems to have accepted the Vikings ~solid~ purgatory. He'll make the playoffs (or miss it tradgically) but without Rashee Rice or future draft pick reinforcement, does he have a chance of winning the 'ship?"),
+                                    P("Starting and STILL 12th on the SNICKERS power ranks, Ruble has rejected purgatory and looks to be using his extra 2nd (or 4th), 3rd, 7th, and 9th draft picks to start a 2025 super team. If Ruble's team is indeed strong next year, any bets on how much 2026 draft capital he'll sacrifice to boost championship odd?"),
 
                                     H2("Nihal 4W somehow beats Tim 4W 102.18 to 92.66"),
-                                    P(""),
-                                    P(""),
+                                    P("Starting and STILL 11th on the SNICKERS power ranks, Nihal successfully rejected purgatory last year by trading his 2024 6th for De'Von Achane and eeking out a championship win! This year he's reseting and has an extra 3rd (or 5th), 4th, and 10th. Maybe he'll and Ruble will be the Yankees-Dodgers of next year."),
+                                    P("Tim has slid to 9th in the power ranks. He's in a funny position as a 'franchise'. He hasn't done much (any?) future draft pick trading, but he'll miss his second playoff in a row. Not sure if Tim is too nice or perfectly rational to lean on future draft picks to shovel him out of his hole."),
 
                                     H2("Joe 6W beats Chris 4W 125.7 to 109.66"),
-                                    P(""),
-                                    P(""),
+                                    P("Joe's team did an impressive march from 10th to 6th in the power ranks. If it weren't for injuries, I'd expect his championship chances to be much higher. Why? He had an extra 6th this year and seems willing to trade away future draft picks. But instead, the truest Vikings fan will likely accept the truest Vikings outcome: purgatory."),
+                                    P("Chris may have slipped to 10th in the SNICKERS power ranks and not traded for any future draft picks, BUT he's no stranger to the trade. We all saw Chris losing this round of musical chairs since no trading partners were left at the deadline. Also, Chris did lose his 4th and 10th rounders in 2025 to gain JK Dobbins and Nick Chubb. I cryptically commented 🐑🪒 by which I predicted that Chris got 'fleeced'. Turned out right 😕 Also! Chris likely enabled the first champion to benefit from the Future draft picks trade: In 2021, Chris traded his 4th rounder for Elijah Mitchell at the deadline. The partner softened the pick to a 5th rounder, drafted Mahomes (when he was great), and marched to the championship: Me 😈"),
 
                                     H2("Eshaan 5W beats Nathan 6W 124.72 to 100.36"),
                                     P(""),
