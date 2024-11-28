@@ -63,8 +63,8 @@ def joinme_page():
 @app.get("/manlaw24")
 def manlaw24_page():
     return Title(manlaw24_title), Main(nav, Hr(), Div(cls="container") 
-                                   (H1("Man Law 2024"), 
-                                    P("Under construction.")
+                                   (H1("Man Law 2024 Recap - Week 12"), 
+                                    P("TODO IDEAS: Website welcome. Natural equilibrium of trading across seasons. Rip up the ESPN power index initial ranks. Rules. Fandom irrationality. Fanduel and draft kings are fracking fandom. Compare teams to thanksgiving dishes.")
                                    )), footer
 
 serve()
