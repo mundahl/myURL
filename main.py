@@ -18,7 +18,7 @@ nav = Nav()(
 
 current_year = str(datetime.now().year)
 footer = Footer(style="text-align: center;")(
-    P(f"© John Mundahl, {current_year} | Your ceiling is much higher | This site built by", A("me", href="https://github.com/mundahl/myURL"))
+    P(f"© John Mundahl, {current_year} | Your ceiling is much higher | This site built by ", A("me", href="https://github.com/mundahl/myURL"))
 )
 
 
