@@ -13,6 +13,7 @@ nav = Nav()(
             Div(cls="grid")(
                 A("Jottings", cls="outline", style="--pico-border-color:transparent", href="/jottings", role="button" ),
                 A("Makings", cls="outline", style="--pico-border-color:transparent", href="/makings", role="button"),
+                A("Man Law", cls="outline", style="--pico-border-color:transparent", href="/manlaw24", role="button"),
                 A("Join Me?", href="/joinme", role="button")))))
 
 
@@ -32,6 +33,9 @@ make_title = "Mundahl's Makings"
 joinme_title = "Join Mundahl"
 
 
+manlaw24_title = "Man Law 2024 Recap"
+
+
 
 app,rt = fast_app()
 
@@ -48,8 +52,8 @@ def makings_page():
     return Title(make_title), Main(nav, Hr(), Div(cls="container")(H1("Makings"), P("Under construction."))), footer
 
 @app.get("/joinme")
-def makings_page():
-    return Title(make_title), Main(nav, Hr(), Div(cls="container")
+def joinme_page():
+    return Title(joinme_title), Main(nav, Hr(), Div(cls="container")
                                    (H1(A("Message Me", href="mailto:john.mundahl@gmail.com")), 
                                     P("Self-expression is powerful. Every bit attracts better-matched people who I'd love to interact with."),
                                     P("That's probably you. So message me. Or accept stasis."),
@@ -57,8 +61,8 @@ def makings_page():
                                    ), footer
 
 @app.get("/manlaw24")
-def makings_page():
-    return Title(make_title), Main(nav, Hr(), Div(cls="container") 
+def manlaw24_page():
+    return Title(manlaw24_title), Main(nav, Hr(), Div(cls="container") 
                                    (H1("Man Law 2024"), 
                                     P("Under construction.")
                                    )), footer
