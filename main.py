@@ -94,7 +94,7 @@ def manlaw24_page():
 
                                     H2("Eshaan 5W beats Nathan 6W 124.72 to 100.36"),
                                     P("Eshaan has slipped from 2nd to 8th in the power ranks and showed the - or at least my - main downside to the strategy of future draft pick superteams: time. Trading players takes time. Coordinating, hangling, committing, communicating etc. It's surely more work than Esh would like to put into this. Maybe there's a better way."),
-                                    P("Starting 4th but slipping to 7th, Nathan's franchise seems to be following both Kristian and Eshaan. He savvy-ily traded only a 9th for Chase Brown, but he'll either make or tragically miss the playoffs. Sounds like purgatory, no? Well, maybe not quite - or at least that's not the intention: In addition to the Chase Brown trade, Guggs invests time in scheming up trades throughout the season! Early on, he inquired about two of my RBs. I saw it a few days later (too late?) and forgot to respond. Sorry Guggs!"),
+                                    P("Starting 4th but slipping to 7th, Nathan's franchise seems to be following both Kristian and Eshaan. He savvily traded only a 9th for Chase Brown, but he'll either make or tragically miss the playoffs. Sounds like purgatory, no? Well, maybe not quite - or at least that's not the intention: In addition to the Chase Brown trade, Guggs invests time in scheming up trades throughout the season! Early on, he inquired about two of my RBs. I saw it a few days later (too late?) and forgot to respond. Sorry Guggs!"),
 
                                     H2("Rob 9W beats Evan 8W 162.98 to 93.5"),
                                     P("Futures trades need someone to benefit now. These two teams are *the* two teams swinging for the superteam fences. Maybe championship preview?"),
@@ -103,7 +103,7 @@ def manlaw24_page():
 
                                     H2("John 9W beats Clay 7W 105.66 to 102.98"),
                                     P("John has climbed up 6 spots to 3rd overall. He has 9Wins, but does he have a snowball's chance in hell to beat Rob or Evan? His last two wins have been by <3pts each. He claims it'd be super fun to be the last 'natural champion, but that seems unlikely..."),
-                                    P("Clay got to start the season with the #1 overall power rank and has slipped to 4th. He would have crushed John if half his team wasn't on buy. But does it matter? He won back-to-back during the pandemic and both (?) were without future draft picks I think. Kudos! Coast into the playoffs, give it a go, and most likely: pack it up and plan your next push."),
+                                    P("Clay got to start the season with the #1 overall power rank and has slipped to 4th. He would have crushed John if half his team wasn't on bye. But does it matter? He won back-to-back championships during the pandemic and both (?) were without future draft picks I think. Kudos! Coast into the playoffs, give it a go, and most likely: pack it up and plan your next push."),
 
                                     
                                    )), footer
