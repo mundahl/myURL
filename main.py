@@ -56,4 +56,11 @@ def makings_page():
                                     P("Email me at firstname.lastname@gmail.com"))
                                    ), footer
 
+@app.get("/manlaw24")
+def makings_page():
+    return Title(make_title), Main(nav, Hr(), Div(cls="container") 
+                                   (H1("Man Law 2024"), 
+                                    P("Under construction.")
+                                   )), footer
+
 serve()
