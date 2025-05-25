@@ -3,7 +3,7 @@
 
 Who: Me! John H Mundahl. 
 
-What: 
+What: Some of my work and thoughts showcased!
 
 Where:
 
