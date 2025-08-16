@@ -1,0 +1,7 @@
+File name = date of the posting in format YYYY-MM-DD.md
+
+Slug = first line of the .md file and is the URL slug on the website format slug: XYZ-ABC-....-JKL
+
+Category = second line of the .md file and is the tagged box in the jottings list format category: note or essay or link
+
+Title = First line with single hash in front of it format # Qwerty...
